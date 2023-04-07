@@ -1,8 +1,13 @@
+package br.com.bytebank.banco.test;
+
+import br.com.bytebank.banco.modelo.ContaCorrente;
+import br.com.bytebank.banco.modelo.ContaPoupanca;
+import br.com.bytebank.banco.modelo.SaldoInsuficienteException;
 
 public class TesteContas {
 
 	public static void main(String[] args) throws SaldoInsuficienteException{
-		
+		//Full qualified name FQN
 		int a = 3;
 		int b = a / 0;
 		
