@@ -16,7 +16,7 @@ public class TesteFuncionario {
 		System.out.println(guilherme.getNome());
 		System.out.println(guilherme.getBonificacao());
 		
-		//nico.salario = 300.0;
+		//guilherme.salario = 300.0;
 		
 	}
 
