@@ -8,13 +8,13 @@ public class TesteFuncionario {
 		
 		
 		
-		Gerente nico = new Gerente();
-		nico.setNome("Nico Steppat");
-		nico.setCpf("223355646-9");
-		nico.setSalario(2600.00);
+		Gerente guilherme = new Gerente();
+		guilherme.setNome("Guilherme Santos");
+		guilherme.setCpf("223355646-9");
+		guilherme.setSalario(2600.00);
 
-		System.out.println(nico.getNome());
-		System.out.println(nico.getBonificacao());
+		System.out.println(guilherme.getNome());
+		System.out.println(guilherme.getBonificacao());
 		
 		//nico.salario = 300.0;
 		
